@@ -1,2 +1,2 @@
 # git-workshop
-This repository is used git workshop on May 22 (Tue), 2018.
+This repository is used git workshop on May 31 (Thu), 2018.
